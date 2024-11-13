@@ -6,3 +6,4 @@
 * https://austinhenley.com/blog/challengingprojects.html
 * https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/?ref=dailydev
 * https://unstuckstudy.com/
+* https://www.p99conf.io/2024/10/07/books-by-p99-conf-speakers/?ref=dailydev
